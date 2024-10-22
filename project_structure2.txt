@@ -1,0 +1,173 @@
+/Users/vaughnscott/Documents/WebsiteFolder/fullStackSite/websiteFramework1
+├── TravelWebsiteMerge.iml
+├── backend
+│   ├── server.js
+│   └── src
+│       └── components
+│           └── ui
+│               ├── accordion.jsx
+│               ├── action-bar.jsx
+│               ├── alert.jsx
+│               ├── avatar.jsx
+│               ├── blockquote.jsx
+│               ├── breadcrumb.jsx
+│               ├── button.jsx
+│               ├── checkbox-card.jsx
+│               ├── checkbox.jsx
+│               ├── clipboard.jsx
+│               ├── close-button.jsx
+│               ├── color-mode.jsx
+│               ├── data-list.jsx
+│               ├── dialog.jsx
+│               ├── drawer.jsx
+│               ├── empty-state.jsx
+│               ├── field.jsx
+│               ├── file-button.jsx
+│               ├── hover-card.jsx
+│               ├── input-group.jsx
+│               ├── link-button.jsx
+│               ├── menu.jsx
+│               ├── native-select.jsx
+│               ├── number-input.jsx
+│               ├── pagination.jsx
+│               ├── password-input.jsx
+│               ├── pin-input.jsx
+│               ├── popover.jsx
+│               ├── progress-circle.jsx
+│               ├── progress.jsx
+│               ├── prose.jsx
+│               ├── provider.jsx
+│               ├── radio-card.jsx
+│               ├── radio.jsx
+│               ├── rating.jsx
+│               ├── segmented-control.jsx
+│               ├── select.jsx
+│               ├── skeleton.jsx
+│               ├── slider.jsx
+│               ├── stat.jsx
+│               ├── status.jsx
+│               ├── stepper-input.jsx
+│               ├── steps.jsx
+│               ├── switch.jsx
+│               ├── tag.jsx
+│               ├── timeline.jsx
+│               ├── toaster.jsx
+│               ├── toggle-tip.jsx
+│               └── tooltip.jsx
+├── config
+│   └── db.js
+├── controllers
+│   ├── product.controller.js
+│   └── restaurant.controller.js
+├── frontend
+│   ├── README.md
+│   ├── build
+│   │   ├── 200.html
+│   │   └── index.html
+│   ├── dist
+│   │   ├── assets
+│   │   │   └── index-CBNnNju0.js
+│   │   ├── index.html
+│   │   └── vite.svg
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── project_structure.txt
+│   ├── public
+│   │   └── vite.svg
+│   ├── src
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── Navbar.css
+│   │   ├── assets
+│   │   │   └── react.svg
+│   │   ├── components
+│   │   │   ├── CenteredLayout.jsx
+│   │   │   ├── GoogleCustomSearch.jsx
+│   │   │   ├── HeaderCentered.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   └── ProductCard.jsx
+│   │   ├── main.jsx
+│   │   ├── pages
+│   │   │   ├── AboutPage.jsx
+│   │   │   ├── AttractionsPage.jsx
+│   │   │   ├── ContactPage.jsx
+│   │   │   ├── CreatePage.jsx
+│   │   │   ├── CreateRestaurant.jsx
+│   │   │   ├── HomePage.jsx
+│   │   │   ├── NewRestaurantForm.js
+│   │   │   ├── NewRestaurantPage.jsx
+│   │   │   ├── ProductPage.jsx
+│   │   │   ├── RestaurantPage.jsx
+│   │   │   └── SearchPage.jsx
+│   │   └── store
+│   │       └── product.js
+│   └── vite.config.js
+├── images
+├── models
+│   ├── product.model.js
+│   └── restaurant.model.js
+├── package-lock.json
+├── package.json
+├── project_structure.txt
+├── project_structure2.txt
+├── routes
+│   ├── product.route.js
+│   └── restaurant.route.js
+├── src
+│   └── components
+│       └── ui
+│           ├── accordion.jsx
+│           ├── action-bar.jsx
+│           ├── alert.jsx
+│           ├── avatar.jsx
+│           ├── blockquote.jsx
+│           ├── breadcrumb.jsx
+│           ├── button.jsx
+│           ├── checkbox-card.jsx
+│           ├── checkbox.jsx
+│           ├── clipboard.jsx
+│           ├── close-button.jsx
+│           ├── color-mode.jsx
+│           ├── data-list.jsx
+│           ├── dialog.jsx
+│           ├── drawer.jsx
+│           ├── empty-state.jsx
+│           ├── field.jsx
+│           ├── file-button.jsx
+│           ├── hover-card.jsx
+│           ├── input-group.jsx
+│           ├── link-button.jsx
+│           ├── menu.jsx
+│           ├── native-select.jsx
+│           ├── number-input.jsx
+│           ├── pagination.jsx
+│           ├── password-input.jsx
+│           ├── pin-input.jsx
+│           ├── popover.jsx
+│           ├── progress-circle.jsx
+│           ├── progress.jsx
+│           ├── prose.jsx
+│           ├── provider.jsx
+│           ├── radio-card.jsx
+│           ├── radio.jsx
+│           ├── rating.jsx
+│           ├── segmented-control.jsx
+│           ├── select.jsx
+│           ├── skeleton.jsx
+│           ├── slider.jsx
+│           ├── stat.jsx
+│           ├── status.jsx
+│           ├── stepper-input.jsx
+│           ├── steps.jsx
+│           ├── switch.jsx
+│           ├── tag.jsx
+│           ├── timeline.jsx
+│           ├── toaster.jsx
+│           ├── toggle-tip.jsx
+│           └── tooltip.jsx
+├── websiteFramework1.eml
+└── websiteFramework1.userlibraries
+
+23 directories, 148 files
